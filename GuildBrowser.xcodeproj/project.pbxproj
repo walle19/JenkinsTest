@@ -8,6 +8,9 @@
 
 /* Begin PBXBuildFile section */
 		315D45211A10BD72006927A4 /* CharacterTest.m in Sources */ = {isa = PBXBuildFile; fileRef = 315D45201A10BD72006927A4 /* CharacterTest.m */; };
+		315D45221A10CBB2006927A4 /* Guild.m in Sources */ = {isa = PBXBuildFile; fileRef = CB9FDD1F15E9B34900B3713E /* Guild.m */; };
+		315D45231A10CBB2006927A4 /* Item.m in Sources */ = {isa = PBXBuildFile; fileRef = CB9FDD2315E9B34900B3713E /* Item.m */; };
+		315D45241A10CBB2006927A4 /* WoWUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = CB9FDD2B15E9B34900B3713E /* WoWUtils.m */; };
 		CB9FDC4015E9872D00B3713E /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CB9FDC3F15E9872D00B3713E /* UIKit.framework */; };
 		CB9FDC4215E9872D00B3713E /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CB9FDC4115E9872D00B3713E /* Foundation.framework */; };
 		CB9FDC4415E9872D00B3713E /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CB9FDC4315E9872D00B3713E /* CoreGraphics.framework */; };
@@ -513,6 +516,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				315D45221A10CBB2006927A4 /* Guild.m in Sources */,
+				315D45231A10CBB2006927A4 /* Item.m in Sources */,
+				315D45241A10CBB2006927A4 /* WoWUtils.m in Sources */,
 				315D45211A10BD72006927A4 /* CharacterTest.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
